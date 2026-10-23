@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
