@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
