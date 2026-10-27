@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0283-move-zeroes) |
+| [0463-island-perimeter](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0463-island-perimeter) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +48,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
