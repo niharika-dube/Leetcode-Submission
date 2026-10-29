@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0088-merge-sorted-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0463-island-perimeter) |
 ## Quicksort
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
