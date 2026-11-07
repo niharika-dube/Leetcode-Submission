@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0054-spiral-matrix) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Depth-First Search
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0215-kth-largest-element-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
