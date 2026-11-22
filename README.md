@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0013-roman-to-integer) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/niharika-dube/Leetcode-Submission/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,4 +110,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0013-roman-to-integer) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/niharika-dube/Leetcode-Submission/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
