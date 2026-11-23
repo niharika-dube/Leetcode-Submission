@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0463-island-perimeter) |
+| [0944-delete-columns-to-make-sorted](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0944-delete-columns-to-make-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,5 +111,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0013-roman-to-integer) |
+| [0944-delete-columns-to-make-sorted](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0944-delete-columns-to-make-sorted) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/niharika-dube/Leetcode-Submission/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
