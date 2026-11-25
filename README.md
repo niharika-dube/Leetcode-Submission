@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0459-repeated-substring-pattern) |
 | [0944-delete-columns-to-make-sorted](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0944-delete-columns-to-make-sorted) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/niharika-dube/Leetcode-Submission/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Longest Increasing Subsequence
@@ -123,14 +124,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0459-repeated-substring-pattern) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/niharika-dube/Leetcode-Submission/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
